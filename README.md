@@ -1,4 +1,6 @@
-## Hi there 👋
+## ❤️ My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=swift,go,py,processing,figma,githubactions&perline=4)](https://skillicons.dev)
 
 ## 🏆 Github Profile Trophy
 
